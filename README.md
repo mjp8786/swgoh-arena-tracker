@@ -7,9 +7,9 @@
 
 ## Deploy straight to Heroku(24/7 free if a credit card registered)
 
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker) -->
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker) -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) -->
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmjp8786%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2FccIPD-arena-tracker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker)
 
 
 
@@ -29,10 +29,10 @@
 ### 0. Delete previously created application(if you have one).
 
 ### 1. Click the button below.
-<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fiprobedroid%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker)
+<!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker)
  -->
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) -->
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmjp8786%2FccIPD-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2FccIPD-arena-tracker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker&template=https%3A%2F%2Fgithub.com%2Fmjp8786%2Fswgoh-arena-tracker)
 
 
 ### 2. Create the application with a unique name and press `Deploy app` button.
